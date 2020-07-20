@@ -15,7 +15,7 @@ public class generateMaze : MonoBehaviour {
         }
     }
     
-    public int mapWidth=20, mapHeight = 20;
+    public uint mapWidth=20, mapHeight = 20;
     static float scaleOffset = 1.0f;
     float wallLen;
     float halfWallLen;

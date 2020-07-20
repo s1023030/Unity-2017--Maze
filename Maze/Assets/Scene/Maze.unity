@@ -224,8 +224,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f64f870639029984da0e01fa567d3a79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapWidth: 55
-  mapHeight: 55
+  mapWidth: 100
+  mapHeight: 100
 --- !u!23 &520141954
 MeshRenderer:
   m_ObjectHideFlags: 0
